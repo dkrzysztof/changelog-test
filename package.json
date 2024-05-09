@@ -1,16 +1,19 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "version": "auto-changelog -p && git add CHANGELOG.md"
+    "version": "auto-changelog -p && git add CHANGELOG.md",
+    "release": "standard-version",
+    "release:dry-run": "npm run release -- --dry-run"
   },
   "devDependencies": {
     "auto-changelog": "^2.4.0",
     "eslint": "^7.32.0",
     "prettier": "^2.5.1",
+    "standard-version": "^9.5.0",
     "turbo": "latest"
   },
   "name": "monorepo",
