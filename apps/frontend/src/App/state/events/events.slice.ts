@@ -24,7 +24,6 @@ const eventsSlice = createSlice({
     getAllEventsFailure: (state: EventsState) => {
       state.status.getAllEvents = StatusType.FAILED;
     },
-
     createEventStart: (state: EventsState) => {
       state.status.createEvent = StatusType.LOADING;
     },
