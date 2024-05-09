@@ -5,7 +5,6 @@
 2. Upewnić się, że port na którym będzie uruchamiana aplikacja to 3000 (mogą wystąpić problemy z połączeniem podczas uruchamiana testów, jesli port będzie inny)
 
 ## Uruchamianie aplikacji
-
 W celu uruchomienia aplikacji należy wywołać komendę `npm start`
 
 ## Testowanie aplikacji
