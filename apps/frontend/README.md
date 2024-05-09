@@ -1,4 +1,4 @@
-# hello Recruitment Task
+# Hello Recruitment Task
 
 ## Przed uruchomieniem
 
