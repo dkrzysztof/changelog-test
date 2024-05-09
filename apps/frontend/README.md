@@ -1,5 +1,4 @@
 # Hello Recruitment Task
-
 ## Przed uruchomieniem
 
 1. Należy wywołać komendę `npm install` w celu zainstolowania wszystkich zależności projektowych
