@@ -7,6 +7,7 @@ const HomePage: React.FC = () => {
         <span className="hello-font">Hello</span>
       </div>
       <div className="app-container d-flex-center-center">
+        New Breaking Change !
       </div>
     </>
   );
