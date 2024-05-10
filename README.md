@@ -35,6 +35,7 @@ This Turborepo has some additional tools already setup for you:
 - new feature #2
 - added minor change #2
 - added BREAKING CHANGE #2
+- official change #1
 
 ### Build
 
