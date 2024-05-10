@@ -36,7 +36,7 @@ This Turborepo has some additional tools already setup for you:
 - BREAKING CHANGE #1
 - resolved referenced issue #2
 - added refs #1
-- merge test #1
+- merge test #2
 
 ### Build
 
