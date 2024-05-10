@@ -33,7 +33,7 @@ This Turborepo has some additional tools already setup for you:
 - [Prettier](https://prettier.io) for code formatting
 - added fix #1
 - new feature #2
-- added minor change #1
+- added minor change #2
 - added BREAKING CHANGE #2
 
 ### Build
