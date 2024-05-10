@@ -34,7 +34,7 @@ This Turborepo has some additional tools already setup for you:
 - patch #1
 - feat #1
 - BREAKING CHANGE #1
-- resolved referenced issue #1
+- resolved referenced issue #2
 
 ### Build
 
