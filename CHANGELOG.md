@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/dkrzysztof/changelog-test/compare/v0.0.5...v0.1.0) (2024-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* brekaing change description
+* minor feature
+* The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons.
+* added husky and commitlint
+
+### Features
+
+* added husky and commitlint ([1f41eb8](https://github.com/dkrzysztof/changelog-test/commit/1f41eb894e52d9c5c21848b6527caf2dc03b31ed))
+* breaking change ([3640b6b](https://github.com/dkrzysztof/changelog-test/commit/3640b6b57970f2589e0c9cef8f4ee5395d677a98))
+* minor feature ([36cda0e](https://github.com/dkrzysztof/changelog-test/commit/36cda0e3bd54c410421ea3261dfe0a16e18d88f8))
+* new changelog generator script ([767499d](https://github.com/dkrzysztof/changelog-test/commit/767499d09a01a7b8f2378b056b9499f479195f72))
+* new feature [#1](https://github.com/dkrzysztof/changelog-test/issues/1) ([d25823d](https://github.com/dkrzysztof/changelog-test/commit/d25823dc4e7a200e21c521673c7669b10ca1136a))
+* new feature added ([0ee0428](https://github.com/dkrzysztof/changelog-test/commit/0ee04288649b67c3d9d5f3a87af5241f7de5998d))
+* new home page ([f63a9e9](https://github.com/dkrzysztof/changelog-test/commit/f63a9e9deee51bd92e389777e0e61c506492220e))
+
+
+### Bug Fixes
+
+* **events:** fix issue with bad event creation ([9c217c7](https://github.com/dkrzysztof/changelog-test/commit/9c217c72d59efc0ad5a72996aad8b89b64c6b568))
+
 ### [0.0.5](https://github.com/dkrzysztof/changelog-test/compare/v0.0.4...v0.0.5) (2024-05-09)
 
 ### 0.0.4 (2024-05-09)
