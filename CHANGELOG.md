@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/dkrzysztof/changelog-test/compare/v1.2.0...v1.3.0) (2024-05-10)
+
+
+### Features
+
+* resolved issue [#5](https://github.com/dkrzysztof/changelog-test/issues/5) ([55b8aa1](https://github.com/dkrzysztof/changelog-test/commit/55b8aa10065640a42023bff2876ab0ad62a56363))
+
 ## [1.2.0](https://github.com/dkrzysztof/changelog-test/compare/v1.1.0...v1.2.0) (2024-05-10)
 
 
