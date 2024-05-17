@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
@@ -39,5 +39,10 @@
   "dependencies": {
     "conventional-changelog-writer": "^8.0.0",
     "typescript": "^5.4.5"
+  },
+  "commit-and-tag-version": {
+    "parserOpts": {
+      "mergePattern": "Merged\\sPR\\s(\\d+):(.*)"
+    }
   }
 }
