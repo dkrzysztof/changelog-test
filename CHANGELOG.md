@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/dkrzysztof/changelog-test/compare/v1.5.0...v1.6.0) (2024-05-17)
+
+
+### Features
+
+* change from normal commit [#8](https://github.com/dkrzysztof/changelog-test/_workitems/edit/8) ([0a74ea1](https://github.com/dkrzysztof/changelog-test/_git/it-solve-starter-front/commit/0a74ea1f19bdad531dc4e901da496e8105a1858c))
+* new change from branch normal commit ([de135ed](https://github.com/dkrzysztof/changelog-test/_git/it-solve-starter-front/commit/de135edc1388c9edf3f5f47310856fb0bf8f269d))
+
+
 ## [1.5.0](https://github.com/dkrzysztof/changelog-test/compare/v1.4.0...v1.5.0) (2024-05-10)
 
 
