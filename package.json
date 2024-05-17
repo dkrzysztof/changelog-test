@@ -30,9 +30,13 @@
     "apps/*",
     "packages/*"
   ],
-  "standard-version": {
+  "commit-and-tag-version": {
     "scripts": {
       "prerelease": "bash ./check-if-new-version-has-changes.sh"
+    },
+    "parserOpts":{
+      "headerPattern": "/^\\[(\\w+-\\d+)\\] (\\w+): (.+)/",
+      "headerCorrespondence": ["scope", "type", "subject"]
     }
   }
 }
